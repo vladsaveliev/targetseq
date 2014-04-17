@@ -1,0 +1,32 @@
+{
+  "Targetted regions" : "/ngs/reference data/genomes/Hsapiens/staging/Ov SS bed files/SureSelect/SS regions CP",
+  "Target padding" : "500",
+  "Examine unique starts" : "No",
+  "barcoded" : "false",
+  "all_reads" : {
+    "Number of mapped reads" : "1625036",
+    "Number of reads on target" : "1021939",
+    "Percent reads on target" : "62.89%",
+    "Percent reads on padded target" : "89.93%",
+    "Total aligned base reads" : "61749848",
+    "Total base reads on target" : "33727151",
+    "Percent base reads on target" : "54.62%",
+    "Bases in targeted reference" : "1140710",
+    "Bases covered (at least 1x)" : "1052115",
+    "Average base coverage depth" : "29.57",
+    "Maximum base read depth" : "307",
+    "Average base read depth" : "32.06",
+    "Std.Dev base read depth" : "27.31",
+    "Target coverage at 1x" : "92.233%",
+    "Target coverage at 5x" : "83.661%",
+    "Target coverage at 10x" : "72.896%",
+    "Target coverage at 20x" : "54.553%",
+    "Target coverage at 50x" : "19.890%",
+    "Target coverage at 100x" : "2.552%",
+    "Target coverage at 500x" : "0.000%",
+    "Target coverage at 1000x" : "0.000%",
+    "Target coverage at 2500x" : "0.000%",
+    "Target coverage at 5000x" : "0.000%",
+    "Target coverage at 10000x" : "0.000%"
+  }
+}
