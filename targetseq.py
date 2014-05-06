@@ -34,7 +34,7 @@ def analyze(self, bam, bed, ref, pad=500):
     call("samtools depth -b {bed} {bam} 2> /dev/null > {pileup}")
 
     cov_report = check_output("awk src/coverage_analysis.awk -v basereads={read_bases} "
-                              "-v genome={genome_size} {pileup}")
+                              "-v genome={genome_size} {pileup}")   
     print cov_report
 
 
